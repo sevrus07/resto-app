@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+    display:inline-block;
+    max-width: 20rem;
+    max-height: 25rem;
+    border: 0.13rem solid black;
+    margin: 0.5rem 0.5rem;
+    padding-top: 1rem;
+
+}
+.content{
+    padding: 2rem;
+    margin: 1rem 1rem;
+}
+.content>img{
+    max-width: 4rem;
+    max-height: 4rem;
+
+}

@@ -1,0 +1,16 @@
+.categorycontainer{
+    text-align: center;
+    background-color:rgb(56, 44, 44);
+    padding: 2rem;
+}
+.categorycontentlinks{
+    text-align: center;
+    display: flex;
+    place-items: center;
+    justify-content: space-around;
+    
+}
+.categorylinks>img{
+    width: 30%;
+    height: 30%;
+}
