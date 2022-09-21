@@ -8,7 +8,7 @@ const HomePage = () => {
     return(
         <div className='home'>
             <h1>Welcome to Excellion's Pub!</h1><br/>
-                <div className='content'>
+                <div className='main-content'>
                       <img src='https://i.imgur.com/k6hQQ7D.png' alt='design'></img>  
                 </div><br/><br/>
             <h3>Want to taste a bit of heaven? Don't worry you'll only find hell here.</h3><br/><br/>
