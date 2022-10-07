@@ -4,6 +4,6 @@
     padding: 1rem;
 }
 .main-content>img{
-    width: 700px;
-    height: 400px;
+    width: 100%;
+    height: 100%;
 }

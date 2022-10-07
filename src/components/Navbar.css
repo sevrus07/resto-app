@@ -6,7 +6,7 @@
     border-bottom: 0.3rem solid black;
     
 }
-img{
-    width: 3rem;
-    height: 3rem;
+.navbar img{
+    width: 2rem;
+    height: 2rem;
 }
