@@ -12,6 +12,7 @@ import CategoryPage from './components/CategoryPage';
 import Navbar from './components/Navbar';
 
 
+
 const initialState = {
   items: [
     {
